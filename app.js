@@ -154,4 +154,5 @@
 // console.log(input.getAttribute("type"));
 // console.log(input.setAttribute("type", "text"));
 // console.log(input.setAttribute("placeholder", "type....."));
+//this is just a test file
 
